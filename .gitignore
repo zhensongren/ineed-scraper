@@ -1,6 +1,13 @@
-# user python environment
+# user data files and python environment
+Indeed-spider/indeed-requests-bs4-to-excel.py
+Indeed-spider/indeed-requests-xpath-re.py
+Indeed-spider/indeed_jobs.xlsx
+Indeed-spider/indeed_jobs_python_data_machine+learning_sort.csv
+Indeed-spider/indeed_requests_bs4_to_DB.py
+Indeed-spider/test_auth.py
+Indeed-spider/test_cloudsql.py 
+Indeed-spider/test_gsppandas.py
 web_spider/
-
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
